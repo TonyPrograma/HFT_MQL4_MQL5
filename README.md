@@ -1,0 +1,1 @@
+Este son los bots para pasar pruebas de fondeo en las empresas de fondeo en donde permiten HFT y no tienen deslizamiento. Lo mas importante para su uso es que no tenga deslizamiento, ya que aprobecha ello para crear Stop Loss en cero, situación que en mercado real no existe. 
